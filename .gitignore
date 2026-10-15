@@ -1,0 +1,13 @@
+# Environment variables (sensitive keys)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Streamlit
+.streamlit/
